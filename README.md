@@ -1,8 +1,7 @@
 # pgrent
 
-Certainly! Creating a good description for your GitHub repository is essential for attracting users and contributors. Here's a sample description you can use as a starting point for your PG renting service website:
 
-PG Renting Service Website
+PG Renting Service Website(PGLife)
 Welcome to our PG (Paying Guest) Renting Service! 🏠🔑
 
 About
